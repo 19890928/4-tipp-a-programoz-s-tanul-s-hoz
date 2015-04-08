@@ -23,5 +23,4 @@ Ha a probléma, amivel szembesülsz túl nehéznek bizonyul, nézd meg nem tudod
 
 ##4. Kérj visszajelzést##
 Negyedszer pedig, amit tanultam, megpróbálom feltenni egy blogra, levlistára, IRC-re, honlapra vagy bárhová, ahol látható és visszajelzést lehet kérni. Eddig ezt nem csináltam olyan gyakran, mint kellett volna, de amikor igen, sokat tanultam belőle. Néhány hónapja [CoffeeScript](http://coffeescript.org/)-et tanultam és megkértem Sam Stephenson-t, hogy nézze át a kódomat (egy labirintus-generátor készítése). Ő felhívta a figyelmemet, hogy a kódom több része lehetne kódnyelv-specifikusabb. Ez felbecsülhetetlen volt.
-A legfontosabb dolog, amit az eszünkbe kell vésni, hogy megtanulni programozni (vagy bármi mást hogyan kell csinálni) nem egy egynapos feladat lesz. Ne hagyjuk átverni magunkat azzal, hogy könnyű lesz. De attól még, hogy nem könnyű, nem jelenti azt, hogy nem lehet élvezetes. Higgy benne, hogy megéri, és meg is fogja. Végül, minél többet tanulsz, annál többet fogsz elérni. 
-
+A legfontosabb dolog, amit az eszünkbe kell vésni, hogy megtanulni programozni (vagy bármi mást hogyan kell csinálni) nem egy egynapos feladat lesz. Ne hagyjuk átverni magunkat azzal, hogy könnyű lesz. De attól még, hogy nem könnyű, nem jelenti azt, hogy nem lehet élvezetes. Higgy benne, hogy megéri, és meg is fogja. Végül, minél többet tanulsz, annál többet fogsz elérni.
