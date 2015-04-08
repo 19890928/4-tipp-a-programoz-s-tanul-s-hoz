@@ -2,8 +2,8 @@
 
 Nemrég kaptam egy e-mailt valakitől, aki programozásba kezdett, és tanácsot kért, hogyan folytassa.  Egy project kapcsán keresett fel, amit elkezdett, de olyan területekbe futott bele, amelyeknél a jelenlegi tudásával nem tud megoldással szolgálni a problémákra.
 	Mindenekelőtt teljesen le voltam nyűgözve, hogy tényleg elkezdett foglalkozni vele. Ötleteket minden bokorban lehet találni, de nem szeretem azokat az “ötlet-emereket”, akik azt hiszik, hogy a munkájuk annyiból áll, hogy előállnak egy ötlettel, amihez már csak egy programozót kell találjanak, aki tudja pótolni a felmerült hiányosságokat. Nagyra értékelem, hogy egy ilyen tipusú ember jön el hozzám segítségért, miután egymaga nem tudta megoldani a feladatot.
-Sajnos azonben nem tudtam segíteni a projekt továbbvitelében, de az eset lehetőséget adott arra, hogy visszaemlékezzek azokra az időkre, amikor még kezdő voltam (legyen szó web-programozásról, IOS programozásról vagy a software-ektől teljesen független dologról) és, hogy átgondoljam, hogyan közelítettem meg a kezdeti nehézségeket.
-	Négy alapvető dolgot találtam, amik úgy gondolom meghatározták a saját tanulási stílusomat. Természetesen ahány tanuló, annyi tanulási stílus létezik, de ezek voltak azok a dolgok, amik nálam beváltak.
+	Sajnos azonben nem tudtam segíteni a projekt továbbvitelében, de az eset lehetőséget adott arra, hogy visszaemlékezzek azokra az időkre, amikor még kezdő voltam (legyen szó web-programozásról, IOS programozásról vagy a software-ektől teljesen független dologról) és, hogy átgondoljam, hogyan közelítettem meg a kezdeti nehézségeket.
+Négy alapvető dolgot találtam, amik úgy gondolom meghatározták a saját tanulási stílusomat. Természetesen ahány tanuló, annyi tanulási stílus létezik, de ezek voltak azok a dolgok, amik nálam beváltak.
 
 
 ##1. Válassz egy projektet##
@@ -23,4 +23,4 @@ Harmadszor, ha a probléma, amit kezelek túl nagy, először megpróbálom kise
 
 ##4. Kérj visszajelzést##
 Negyedszer pedig, amit tanultam, megpróbálom feltenni egy blogra, levlistára, IRC-re, honlapra vagy bárhová, ahol látható és visszajelzést lehet kérni. Eddig ezt nem csináltam olyan gyakran, mint kellett volna, de amikor igen, sokat tanultam belőle. Néhány hónapja [CoffeeScript](http://coffeescript.org/)-et tanultam és megkértem Sam Stephenson-t, hogy nézze át a kódomat (egy labirintus-generátor készítése). Ő felhívta a figyelmemet, hogy a kódom több része lehetne kódnyelv-specifikusabb. Ez felbecsülhetetlen volt.
-A legfontosabb dolog, amit az eszünkbe kell vésni, hogy megtanulni programozni (vagy bármi mást hogyan kell csinálni) nem egy egynapos feladat lesz. Ne hagyjuk átverni magunkat azzal, hogy könnyű lesz. De attól még, hogy nem könnyű, nem jelenti azt, hogy nem lehet élvezetes. Higgy benne, hogy megéri, és meg is fogja. Végül, minél többet tanulsz, annál többet fogsz elérni.
+	A legfontosabb dolog, amit az eszünkbe kell vésni, hogy megtanulni programozni (vagy bármi mást hogyan kell csinálni) nem egy egynapos feladat lesz. Ne hagyjuk átverni magunkat azzal, hogy könnyű lesz. De attól még, hogy nem könnyű, nem jelenti azt, hogy nem lehet élvezetes. Higgy benne, hogy megéri, és meg is fogja. Végül, minél többet tanulsz, annál többet fogsz elérni.
