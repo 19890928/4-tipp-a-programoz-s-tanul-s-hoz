@@ -8,7 +8,7 @@ Négy alapvető dolgot találtam, amik úgy gondolom meghatározták a saját ta
 
 1. Válassz egy projektet 
 
-Először is egy projekttel kezdek. Amikor először Rubyt tanultam, a tanuló projektem egy miniatűr HTTP szerver volt. IOS re, egy húrjáték katalógus. [CofeeScriptre](http://coffeescript.org/) pedig, egy [labirintus generáló algoritmust](http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap) akartam írni. Az mindegy, miért esik a választásom egy adott projektre, a lényeg, hogy érdekesnek tartsam, és ne tudjam azonnal megoldani.
+Először is egy projekttel kezdek. Amikor először Rubyt tanultam, a tanuló projektem egy miniatűr HTTP szerver volt. IOS re, egy [húrjáték katalógus](http://www.ekawada.com/). [CofeeScriptre](http://coffeescript.org/) pedig, egy [labirintus generáló algoritmust](http://weblog.jamisbuck.org/2011/2/7/maze-generation-algorithm-recap) akartam írni. Az mindegy, miért esik a választásom egy adott projektre, a lényeg, hogy érdekesnek tartsam, és ne tudjam azonnal megoldani.
 Gyakran megesik, hogy kezdetben a projekt kiválasztása sarkallja tanulásra az embert. Ha akarsz egy applikációt, rájöhetsz, hogy ezt esélyként is felhasználhatod, hogy Rails-ben tanulj fejleszteni. Vagy arra vágysz, hogy legyen egy applickációd az iPhone-odon, ami IOS fejlesztésre sarkall.
 De bármi is legyen az, ami arra ösztönöz, hogy programozni tanulj, ne az iskolapadban próbálj tanulni. Egy project az, ami a maga poros dohos tényeivel igazivá teszi a programozást. Egy projekt nélkül nem tanulsz, csupán múló tudásra teszel szert néhány információ megszerzésével.
 
